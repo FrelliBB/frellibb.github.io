@@ -4,15 +4,7 @@
 	<title>Test</title>
 	<script src='https://code.jquery.com/jquery-2.1.1.min.js'></script>
 	<script src='https://code.jquery.com/ui/1.11.1/jquery-ui.min.js'></script>
-	<script>
-		$(document).ready(function(){
-			$('#changeColour').click(function(e){
-					var color = '#' + Math.floor(Math.random() * 16777215).toString(16);
-					console.log('Switching colour to: ' + color);
-					$(document.body).animate({backgroundColor: color}, 'slow');
-				});
-		});
-	</script>
+	<script src='scripts/script.js'></script>
 </head>
 
 <body>

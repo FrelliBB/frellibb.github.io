@@ -1,2 +1,23 @@
-<h1>Under Construction</h1>
-<img src='images/me.jpg' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Test</title>
+	<script src='https://code.jquery.com/jquery-2.1.1.min.js'></script>
+	<script src='https://code.jquery.com/ui/1.11.1/jquery-ui.min.js'></script>
+	<script>
+		$(document).ready(function(){
+			$('#changeColour').click(function(e){
+					var color = '#' + Math.floor(Math.random() * 16777215).toString(16);
+					console.log('Switching colour to: ' + color);
+					$(document.body).animate({backgroundColor: color}, 'slow');
+				});
+		});
+	</script>
+</head>
+
+<body>
+	<h1>Under Construction</h1>
+	<h2>Click my face!</h2>
+	<img id='changeColour' src='images/me.jpg' />
+</body>
+</html>

@@ -1,4 +1,5 @@
-.slideContainer{
+/* CSS */
+.hsContainer {
     display: table;
     table-layout: fixed;
     width: 100%;
@@ -6,15 +7,7 @@
     overflow: hidden;
     position: relative;
 }
-
-.slideBackground {
-	background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-.slideContent {
+.hsContent {
     max-width: 450px;
     margin: -150px auto 0 auto;
     display: table-cell;
@@ -23,11 +16,20 @@
     padding: 0 8%;
     text-align: center
 }
-
+.bcg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
 
 /* Slide 1 */
-#slide-1 {
-	background-image:url('../img/bcg_slide-1.jpg');
-	height: 500px;
-	color: black;
-	}
+#slide-1 .bcg {background-image:url('../img/bcg_slide-1.jpg');height:800px;}
+#slide-2 .bcg {
+    background: none;
+    background-color: #010101;
+    height: 310px;
+    text-align: center
+}

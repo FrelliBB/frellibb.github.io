@@ -1,14 +1,20 @@
-/* skrollr */
-.hsContainer {
+.slideContainer{
     display: table;
     table-layout: fixed;
     width: 100%;
     height: 100%;
     overflow: hidden;
     position: relative;
-    opacity: 0;
 }
-.hsContent {
+
+.slideBackground {
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slideContent {
     max-width: 450px;
     margin: -150px auto 0 auto;
     display: table-cell;
@@ -17,13 +23,11 @@
     padding: 0 8%;
     text-align: center
 }
-.bcg {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-}
+
+
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/bcg_slide-1.jpg')}
+#slide-1 {
+	background-image:url('../img/bcg_slide-1.jpg');
+	height: 500px;
+	color: black;
+	}

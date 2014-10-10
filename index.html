@@ -13,8 +13,12 @@
     <script type='text/javascript' src='js/skrollr.min.js' ></script>
     <script type="text/javascript" >
 		$(document).ready(function() {
-			console.log( "ready!" );
-			var s = skrollr.init();
+			var s = skrollr.init({
+			    render: function(data) {
+				//Log the current scroll position.
+				console.log(data.curTop);
+				}				
+			});
 		});		
 	</script>
   </head>

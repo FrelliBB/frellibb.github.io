@@ -1,4 +1,20 @@
 /* CSS */
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(../img/me.jpg) no-repeat;
+	background-position: -50px -100px;
+	}
+
+.circular img {
+	opacity: 0;
+	filter: alpha(opacity=0);
+	}
+	
+/* Skrollr CSS */
 .hsContainer {
     display: table;
     table-layout: fixed;
@@ -30,6 +46,12 @@
 #slide-2 .bcg {
     background: none;
     background-color: #010101;
-    height: 310px;
+    height: 300px;
+    text-align: center
+}
+#slide-3 .bcg {
+    background: none;
+    background-color: #010101;
+    height: 500px;
     text-align: center
 }

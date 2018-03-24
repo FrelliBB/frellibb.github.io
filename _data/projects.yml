@@ -1,0 +1,7 @@
+#intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+#  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+projects:
+  - project:
+    title: Bastion
+    link: "https://github.com/bastion-dev/Bastion"
+    tagline: "An open source API testing library written in Java."

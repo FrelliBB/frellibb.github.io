@@ -1,0 +1,34 @@
+- experience:
+  role: System Developer
+  time: 2017 - Present
+  company: Casumo
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  <br> <br>
+  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  architecto beatae vitae dicta sunt explicabo."
+- experience:
+  role: Junior Software Programmer
+  time: 2015 - 2017
+  company: Ixaris Sytems Ltd.
+  details: "<ul><li>Worked with a team to deliver quality solutions using the Scrum methodology, ensuring that all acceptance criteria was met and tested.</li>
+                <li>Fostered and helped promote a deep interest in software craftsmanship and writing clean code that is easy to read, understand and maintain.</li>
+                <li>Specifically selected as part of a team of code reviewers that reviewed all pull requests to the main development branch with the aim of improving overall code quality and maintainability.</li>
+                <li>Performed in-depth technical analysis on new features requested by product owners in order to further break down the tasks into smaller development units which facilitated estimation and sprint planning.</li>
+                <li>Entrusted with training, leading and working alongside a group of outsourced developers who alternated between working locally and from an offshore office.</li>
+                <li>Assumed a team lead role in mentoring and supporting new developers to help them rapidly learn the Ixaris domain, technologies and tools.</li>
+            </ul>"
+- experience:
+  role: Software Developer Internship
+  time: 2014
+  company: Ixaris Sytems Ltd.
+  details: "Developed internal tools to aid the work flows and processes of different sectors inside the company including:
+            <br>
+            <ul>
+                <li>An application to overhaul the work flow for managing localization data in order to prevent redundant translations and make the process more efficient. Also handled the data migration from the old system to the new.</li>
+                <li>A REST API client library that helps ease the process of integrating new clients with the company's REST based services.</li>
+                <li>A Business Intelligence Report validation tool to reduce the possibility of erroneous reports being sent to clients.</li>
+            </ul>"

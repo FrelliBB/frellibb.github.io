@@ -15,10 +15,10 @@ baseurl: '/'
 name: Francesco Elia Borg Bonaci
 tagline: Java Backend Developer
 pic: profile.jpg
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'My approach to devlopment is that it's not just about writing working code, but about being able to write 
+          code that can be understood, used, and extended by any other developer. It is also about taking full responsibility 
+          for the code that is written, no matter what happens. I view software development as a craft and I take pride in my 
+          approach towards it.'
 
 #sidebar links
 #email: hello@webjeda.com

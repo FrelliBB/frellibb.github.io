@@ -15,7 +15,10 @@ baseurl: '/'
 name: Francesco Elia Borg Bonaci
 tagline: Java Backend Developer
 pic: profile.jpg
-summary: 'My view on devlopment is that it's not just about writing working code, but about being able to write code that can be understood, used, and extended by any other developer. It is also about taking full responsibility for the code that is written, no matter what happens. I view software development as a craft and I take pride in my approach towards it.'
+summary: 'My view on devlopment is that it's not just about writing working code, but about being able
+to write code that can be understood, used, and extended by any other developer. 
+It is also about taking full responsibility for the code that is written, no matter what happens. 
+I view software development as a craft and I take pride in my approach towards it.'
 
 #sidebar links
 #email: hey@francescoborgbonaci.com

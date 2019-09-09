@@ -2,7 +2,17 @@
   role: System Developer
   time: 2017 - Present
   company: Casumo
-  details: ""
+  details: "Worked in the player engagement and retention team to help develop and maintain tools surrounding the gamification and CRM domains. During this time I was consistently recognised by both technical and non-technical colleagues for being a reliable developer who takes full responsibility of all projects I've worked on and for always going the extra mile in all aspects of my work.
+            <br>
+            <ul>
+              <li>Worked towards developing and maintaining CRM solutions for communicating with our playerbase. We developed a CRM platform consisting of a number Spring Boot of microservices and deployed to a Kubernetes cluster.</li>
+              <li>Developed a player journey automation engine on top of the CRM platform to allow personalized communication based on each player's real-time activities./li>
+              <li>Commended for my ability to explain technical details in a meaningful and easy to understand way to business oriented colleagues; and likewise for being able to explain the domain and business problems to other developers.</li>
+              <li>Quickly became the domain expert at Casumo for all things related to the product's gamification systems and helped other teams with architecture and direction when working in these areas.</li>
+              <li>Strived to develop small but impactful quality of life changes wherever the need arose. This led to various improvements to monitoring business related metrics using structured Kibana logs, as well as infrastructural service features such as the ability to easily declare dead-letter queues on RabbitMQ.</li>
+              <li>Formed part of an on-call roster of developers that were available 24/7 in case of production incidents. I was able to efficiently tackle problems across the majority of Casumo's microservice fleet by having a solid understanding of all of Casumo's domains and interactions between services. Wrote extensive post-mortems for production issues which helped the rest of the development team understand and follow through with any actionables required.</li>
+              <li>Baked brownies for colleagues to increase happiness and morale.</li>
+            </ul>"
 - experience:
   role: Junior Software Programmer
   time: 2015 - 2017
